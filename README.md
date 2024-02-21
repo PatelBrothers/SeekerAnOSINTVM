@@ -26,5 +26,3 @@ Gary Ruddell's YouTube Channel [Gary Ruddell Official](https://www.youtube.com/@
 # Spread the Word:
 🚀Share Seeker with your network and empower others to take control of their online presence!
 - We're thrilled about the possibilities Seeker brings and eagerly await your feedback.
-
-#OSINT #Cybersecurity #DigitalFootprint #OpenSourceIntelligence #Seeker
