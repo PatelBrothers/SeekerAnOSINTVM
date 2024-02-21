@@ -1,4 +1,4 @@
-#--🔍 What is Seeker?
+# What is Seeker?
 Seeker is a cutting-edge OSINT (Open Source Intelligence) Virtual Machine tailored for Private Investigators, Penetration Testers, Privacy Enthusiasts, and anyone eager to manage their online presence effectively.
 
 #🛠 Features:
