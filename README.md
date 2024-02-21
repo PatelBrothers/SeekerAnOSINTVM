@@ -2,10 +2,10 @@
 🔍 Seeker is a cutting-edge OSINT (Open Source Intelligence) Virtual Machine tailored for Private Investigators, Penetration Testers, Privacy Enthusiasts, and anyone eager to manage their online presence effectively.
 
 # Features:
-🛠50+ meticulously selected tools & frameworks
-🛠100+ bookmarked sites for streamlined research
-🛠Customized Firefox browser with extensions & containers
-🛠Sleek PopOs Linux Distro for seamless user experience
+- 🛠50+ meticulously selected tools & frameworks
+- 🛠100+ bookmarked sites for streamlined research
+- 🛠Customized Firefox browser with extensions & containers
+- 🛠Sleek PopOs Linux Distro for seamless user experience
 
 # Get Started:
 💡Download Seeker here and unlock a world of possibilities to safeguard your digital footprint:
